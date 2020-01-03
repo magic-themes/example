@@ -28,7 +28,7 @@ used in the [@magic example page](https://github.com/magic/example)
 
 #### install:
 ```bash
-npm install --save --save-exact magic-themes/example
+npm install --save --save-exact @magic-themes/example
 ```
 
 #### usage:
