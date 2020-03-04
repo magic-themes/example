@@ -51,7 +51,7 @@ module.exports = {
 ##### overwrite
 you can overwrite any style in this theme with your own.
 
-create /assets/themes/example/index.js, any css there will overwrite the theme css
+create /assets/themes/example/index.mjs, any css there will overwrite the theme css
 
 ```javascript
 export default vars => ({
