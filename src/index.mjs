@@ -20,41 +20,45 @@ export const vars = {
   },
 }
 
-export default vars => ({
-  '#Magic': {
-    backgroundColor: vars.colors.black,
-    color: vars.colors.white,
+export default (v = {}) => {
+  v = { ...vars, ...v }
 
-    '&.light': {
-      backgroundColor: vars.colors.white,
-      color: vars.colors.black,
-    },
-  },
+  return {
+    '#Magic': {
+      backgroundColor: v.colors.black,
+      color: v.colors.white,
 
-  a: {
-    textDecoration: 'none',
-    color: vars.colors.green[500],
-
-    '.light &&': {
-      color: vars.colors.blue[900],
+      '&.light': {
+        backgroundColor: v.colors.white,
+        color: v.colors.black,
+      },
     },
 
-    '&:hover': {
-      color: vars.colors.blue[300],
+    a: {
+      textDecoration: 'none',
+      color: v.colors.green[500],
+
+      '.light &&': {
+        color: v.colors.blue[900],
+      },
+
+      '&:hover': {
+        color: v.colors.blue[300],
+      },
     },
-  },
 
-  button: {
-    padding: '.3em',
-    margin: '.3em',
-    fontSize: '1.2em',
-  },
+    button: {
+      padding: '.3em',
+      margin: '.3em',
+      fontSize: '1.2em',
+    },
 
-  '.LightSwitch': {
-    position: 'fixed',
-    top: '0',
-    right: '0',
-    height: '1.5em',
-    width: '1.5em',
-  },
-})
+    '.LightSwitch': {
+      position: 'fixed',
+      top: '0',
+      right: '0',
+      height: '1.5em',
+      width: '1.5em',
+    },
+  }
+}
