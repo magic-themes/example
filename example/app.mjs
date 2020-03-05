@@ -1,5 +1,5 @@
 export const state = {
-  logotext: '@magic-themes/example',
+  logotext: 'example theme',
   menu: [
     { to: '/#installation', text: 'installation' },
     {
