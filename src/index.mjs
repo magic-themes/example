@@ -1,3 +1,25 @@
+export const vars = {
+  background: {
+    dark: '#232323',
+    light: '#eeeeee',
+  },
+
+  text: {
+    dark: '#cccccc',
+    light: '#232323',
+  },
+
+  link: {
+    dark: '#eeeeee',
+    light: '#232323',
+
+    hover: {
+      dark: '#fefefe',
+      light: '#232323',
+    },
+  },
+}
+
 export default vars => ({
   '#Magic': {
     backgroundColor: vars.colors.black,
