@@ -3,6 +3,6 @@ export default {
   WEB_ROOT: '/example/',
   PUBLIC: 'docs',
   URL: 'magic-themes.github.io/example',
-  THEME: 'docs',
+  THEME: 'example',
   HOIST: ['Gdpr', 'LightSwitch'],
 }
