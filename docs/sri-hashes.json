@@ -6,8 +6,7 @@
     "/example/404/": "sha384-V1cCxTO9OptHLqRTYQse1047ORUDznBho/1fZVqsnmsHsj3O5zVTIrwQkLp4Y0w1"
   },
   "static": {
-    "/favicon.ico": "sha384-pf51ay6pZCj3+XlVCPmCKLDFpLj7QP+2heR+/n08WgS7Bve7JMkgubHOkwLzaTr+",
     "/robots.txt": "sha384-Zvr3OMBunx1jgn77UMReUldhMuhxUUABr9SpyymhoPJtIB93be67v+CFIFotMgqM",
-    "/sitemap.xml": "sha384-vWEdRTAXMUheuC2+vdQR7OI4+eRAgHZDIei+dO2MV+q99SS5n2VE9Eo7vwbE41xa"
+    "/sitemap.xml": "sha384-jCW+Fo/Shn54AvupxsBFOShcIA172dI5iA6OCbpQCAJkkVGvjOkpraejLPpYZNLW"
   }
 }
