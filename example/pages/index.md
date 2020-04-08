@@ -3,7 +3,9 @@
 this is the
 [@magic-themes](https://github.com/magic-themes)
 example theme.
-It is being used in the [@magic example page](https://github.com/magic/example)
+It is being used in the [@magic example page](https://github.com/magic-examples/example)
+
+[demo](https://magic-examples.github.io/example)
 
 ### installation
 
