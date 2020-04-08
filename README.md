@@ -1,10 +1,10 @@
 ## @magic-themes/example
 
-a simple [@magic](https://github.com/magic/core) example theme.
+a simple [@magic](https://github.com/magic/core/) example theme.
 
-used in the [@magic example page](https://github.com/magic-examples/example)
+used in the [@magic example page](https://github.com/magic-examples/example/)
 
-[demo](https://magic-themes.github.io/example)
+[demo](https://magic-themes.github.io/example/)
 
 [![NPM version][npm-image]][npm-url]
 [![Linux Build Status][travis-image]][travis-url]
@@ -62,6 +62,7 @@ export default vars => ({
 ```
 
 #### changelog
+
 ##### 0.0.1
 first release
 
