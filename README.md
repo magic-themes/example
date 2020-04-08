@@ -2,9 +2,9 @@
 
 a simple [@magic](https://github.com/magic/core) example theme.
 
-used in the [@magic example page](https://github.com/magic/example)
+used in the [@magic example page](https://github.com/magic-examples/example)
 
-[demo](https://magic.github.io/example)
+[demo](https://magic-themes.github.io/example)
 
 [![NPM version][npm-image]][npm-url]
 [![Linux Build Status][travis-image]][travis-url]
