@@ -69,5 +69,8 @@ first release
 ##### 0.0.2
 update for @magic > 0.0.55
 
-##### 0.0.3 - unreleased
+##### 0.0.3 
+bump required node version to 14.2.0
+
+##### 0.0.4 - unreleased
 ...
