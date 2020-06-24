@@ -4,5 +4,5 @@ export default {
   PUBLIC: 'docs',
   URL: 'magic-themes.github.io/example',
   THEME: 'example',
-  HOIST: ['Gdpr', 'LightSwitch'],
+  HOIST: ['NoSpy', 'LightSwitch'],
 }
