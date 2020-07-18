@@ -72,5 +72,9 @@ update for @magic > 0.0.55
 ##### 0.0.3 
 bump required node version to 14.2.0
 
-##### 0.0.4 - unreleased
+##### 0.0.4 
+* update deps
+* remove custom lightswitch style
+
+##### 0.0.5 - unreleased
 ...
