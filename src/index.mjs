@@ -52,13 +52,5 @@ export default (v = {}) => {
       margin: '.3em',
       fontSize: '1.2em',
     },
-
-    '.LightSwitch': {
-      position: 'fixed',
-      top: '0',
-      right: '0',
-      height: '1.5em',
-      width: '1.5em',
-    },
   }
 }
