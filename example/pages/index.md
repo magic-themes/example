@@ -5,7 +5,7 @@ this is the
 example theme.
 It is being used in the [@magic example page](https://github.com/magic-examples/example)
 
-[demo](https://magic-examples.github.io/example)
+[demo](https://magic-examples.github.io/example/)
 
 ### installation
 
